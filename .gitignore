@@ -1,0 +1,13 @@
+.tools/
+.packages/
+.artifacts/
+dist/
+**/bin/
+**/obj/
+.vs/
+*.user
+.env
+.env.*
+*.pfx
+*.pem
+*.key

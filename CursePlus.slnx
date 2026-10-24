@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/CursePlus.Core/CursePlus.Core.csproj" />
+  <Project Path="src/CursePlus.Desktop/CursePlus.Desktop.csproj" />
+  <Project Path="tests/CursePlus.Tests/CursePlus.Tests.csproj" />
+</Solution>
